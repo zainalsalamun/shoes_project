@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "711849129094",
+    "firebase_url": "https://spatial-rock-109208-default-rtdb.firebaseio.com",
+    "project_id": "spatial-rock-109208",
+    "storage_bucket": "spatial-rock-109208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711849129094:android:877b1decf461859af2cd07",
+        "android_client_info": {
+          "package_name": "com.marsad.earningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711849129094-9sd3qf4s679knu80shf3f0k9mgsm0tri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNg5Su3gCScpf4zTgKFyZ0OKlmZY7Ytv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711849129094-9sd3qf4s679knu80shf3f0k9mgsm0tri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711849129094:android:a98d3c092021e5fdf2cd07",
+        "android_client_info": {
+          "package_name": "com.zainalsalamun.shoes_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711849129094-9sd3qf4s679knu80shf3f0k9mgsm0tri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNg5Su3gCScpf4zTgKFyZ0OKlmZY7Ytv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711849129094-9sd3qf4s679knu80shf3f0k9mgsm0tri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
